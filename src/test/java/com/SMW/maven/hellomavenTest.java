@@ -4,6 +4,6 @@ public class hellomavenTest {
 	@Test
 	public void test() {
         hellomaven  mv = new hellomaven();
-        System.out.println(mv.name());
+        System.out.println(mv.name3());
 	}
 }
